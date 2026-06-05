@@ -1,0 +1,6 @@
+{
+  "name": "PrestigeJet",
+  "description": "The ultimate command center for private jet owners, managing fleet operations, concierge requested services, secure itineraries, crew, fuel quotes, empty-leg charters, and carbon footprint offsetting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
